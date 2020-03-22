@@ -1,0 +1,14 @@
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Business.deps.json
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Business.dll
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Business.pdb
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Model.dll
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Service.dll
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Model.pdb
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\bin\Debug\netcoreapp2.1\MarsRover.Service.pdb
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.csprojAssemblyReference.cache
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.AssemblyInfoInputs.cache
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.AssemblyInfo.cs
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.csproj.CopyComplete
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.dll
+C:\Users\Seher\source\repos\MarsRover\MarsRover.Business\obj\Debug\netcoreapp2.1\MarsRover.Business.pdb
